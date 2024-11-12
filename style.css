@@ -17,7 +17,29 @@ section{
      justify-content: center;
 }
 .testo{
-     margin-right: 5%;
+     margin-right: 80px;]
+
+
 
 }
 
+img {
+
+height: 200px;
+
+}
+
+.categoria-videos{
+
+     display: flex;
+     overflow: auto;
+     gap: 10px;
+
+}
+
+.lista{
+
+     background-color: aqua;
+
+
+}
