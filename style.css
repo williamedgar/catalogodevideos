@@ -37,6 +37,22 @@ height: 200px;
 
 }
 
+.categoria-videos img{
+
+     height: 200px;
+     opacity: 0.5;
+
+}
+
+.categoria-videos img:hover{
+
+
+     opacity: 1.0;
+     border: ipx solid green;
+
+
+}
+
 .lista{
 
      background-color: aqua;
